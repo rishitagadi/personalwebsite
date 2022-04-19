@@ -1,2 +1,2 @@
 # personalwebsite
-Personal Website Prohect
+Personal Website Project
